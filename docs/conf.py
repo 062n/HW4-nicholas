@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath("../src/"))
 
 # -- Project information -----------------------------------------------------
 
-project = "Blank Project"
+project = "HW4 edit"
 copyright = "2024, John Doe"
 author = "John Doe"
 
@@ -107,7 +107,7 @@ html_theme_options = {
     "use_issues_button": True,
 }
 html_logo = "../assets/logo.png"
-html_title = "Blank Project Template"
+html_title = "HW4 edit"
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
